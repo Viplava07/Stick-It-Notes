@@ -7,16 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "sw-precache": "sw-precache"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tharunShiv/stick-it-notes.git"
-  },
-  "author": "",
+  "author": "Viplava Bhardwaj",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tharunShiv/stick-it-notes/issues"
-  },
-  "homepage": "https://github.com/tharunShiv/stick-it-notes#readme",
   "dependencies": {
     "sw-precache": "^5.2.1"
   }
